@@ -41,6 +41,9 @@ The dataset was cleaned and preprocessed to remove outliers, impute missing valu
     
 
 > **Best Accuracy:** 91.45% with RandomForest (n_estimators = 50)
+
+![image](https://github.com/user-attachments/assets/9b28c5a1-50fb-4fd5-933a-f8dbac93b058)
+
 ## 🔍 Feature Importance
 
 Top contributing features value top 5 importance :
@@ -54,6 +57,8 @@ Top contributing features value top 5 importance :
 -   `previous_loan_defaults_on_file` :  Value is "No" 
 
 -   `previous_loan_defaults_on_file` : Value is "Yes"
+
+![image](https://github.com/user-attachments/assets/d4b05236-e7ba-44e6-a26b-a68e51a0bc19)
 
 ## 🚀 How to Run
 
