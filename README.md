@@ -42,8 +42,6 @@ The dataset was cleaned and preprocessed to remove outliers, impute missing valu
 
 > **Best Accuracy:** 91.45% with RandomForest (n_estimators = 50)
 
-![image](https://github.com/user-attachments/assets/84d4ec01-d9bc-4acc-8aaa-49babc1d6beb)
-
 ![image](https://github.com/user-attachments/assets/9b28c5a1-50fb-4fd5-933a-f8dbac93b058)
 
 ## 🔍 Feature Importance
